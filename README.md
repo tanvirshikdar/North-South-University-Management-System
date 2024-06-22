@@ -30,4 +30,4 @@ This project is a university management system designed to efficiently manage st
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/tanvirshikdar/North-South-University-Management-System.git
+   https://github.com/tanvirshikdar/North-South-University-Management-System.git
